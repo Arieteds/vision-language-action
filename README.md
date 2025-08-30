@@ -13,6 +13,7 @@ A tiny Vision-Language-Action model for robotic manipulation tasks, implementing
 [Installation instructions]
 
 ## Usage
+Best model with 43.4% accuracy @2% available at: https://www.dropbox.com/scl/fi/36i9j8nx54uqbpqwycock/best_model.pth?rlkey=bhfq2grswkuc9iu6r8w5bcefh&st=x4hgvyly&dl=0
 [Basic usage examples]
 
 ## Citation
